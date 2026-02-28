@@ -38,32 +38,18 @@ I design structured prompts that enhance AI intelligence, automate workflows, an
 </p>
 
 ---
+### 📫 Let's Connect!
 
-## 📊 SYSTEM ANALYTICS
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Arunsandron&show_icons=true&theme=chartreuse-dark&hide_border=true&bg_color=0d1117" height="170"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Arunsandron&layout=compact&theme=chartreuse-dark&hide_border=true&bg_color=0d1117" height="170"/>
-</p>
-
-<p align="center">
-  <img src="https://streak-stats.demolab.com?user=Arunsandron&theme=chartreuse-dark&hide_border=true&background=0D1117" height="170"/>
-</p>
+* **Email:** sandronarun7@gmail.com
 
 ---
 
-## 🐍 Contribution Matrix
+<h3 align="center">⚡ Developer Mindset ⚡</h3>
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/Arunsandron/Arunsandron/output/github-contribution-grid-snake-dark.svg" alt="Snake animation"/>
+  <img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&size=22&pause=1200&color=00FF41&center=true&vCenter=true&width=700&lines=Code.+Break.+Debug.+Repeat." />
 </p>
 
-⚠️ To activate the snake animation:
-
-1. Create a repository named exactly: **Arunsandron**
-2. Go to → Actions tab
-3. Add this workflow file:
-
-`.github/workflows/snake.yml`
-
-Then paste this inside:
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&size=22&pause=1200&color=00BFFF&center=true&vCenter=true&width=700&lines=Every+bug+teaches+something." />
+</p>
